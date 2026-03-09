@@ -30,3 +30,4 @@ Notes and usage details for dynamic-environment.
 - fix a small wording issue
 - link the usage section
 - fix a small wording issue
+- link the usage section
