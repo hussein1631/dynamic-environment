@@ -35,3 +35,4 @@ Notes and usage details for dynamic-environment.
 - add a note about the defaults
 - link the usage section
 - link the usage section
+- fix a small wording issue
